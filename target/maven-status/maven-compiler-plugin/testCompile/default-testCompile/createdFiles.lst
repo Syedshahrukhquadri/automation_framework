@@ -1,0 +1,7 @@
+testBase\BaseClassTC.class
+pageObjects\RegisterPage.class
+pageObjects\BasePage.class
+utilities\ExtentReportManager.class
+testCases\RegTestclass.class
+pageObjects\Homepage.class
+automation_framework1\Frstpgm.class

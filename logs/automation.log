@@ -1,0 +1,365 @@
+2026-10-03 13:32:21.423 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 13:32:22.641 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 13:36:02.142 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 13:36:07.219 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 13:36:07.993 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 13:40:23.445 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 13:40:31.215 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 13:40:32.726 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 13:48:11.066 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 13:48:15.113 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 13:48:16.515 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 13:48:17.288 [main] ERROR testCases.RegTestclass - test failed
+2026-10-03 14:41:24.094 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 14:41:32.113 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 14:41:33.102 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 14:44:51.633 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 14:44:58.040 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 14:44:59.112 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 14:50:06.157 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 14:50:12.530 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 14:50:13.771 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 14:50:17.190 [main] ERROR testCases.RegTestclass - test failed
+2026-10-03 14:50:17.190 [main] DEBUG testCases.RegTestclass - debug logs
+2026-10-03 14:50:56.570 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 14:51:01.703 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 14:51:02.478 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 16:50:06.705 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 16:50:14.936 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 16:50:16.575 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 16:51:09.017 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 16:51:13.790 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 16:51:14.939 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 17:16:15.453 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 17:16:20.804 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 17:16:21.955 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 22:37:44.518 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 22:37:50.434 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 22:37:51.608 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 22:40:48.183 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 22:40:54.756 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 22:40:55.832 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-03 22:41:30.282 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-03 22:41:34.096 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-03 22:41:34.955 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-07 21:52:08.149 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-07 21:52:19.005 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-07 21:52:20.484 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-07 21:53:59.620 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-07 21:54:03.871 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-07 21:54:05.227 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-07 21:54:46.243 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-07 21:54:50.209 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-07 21:54:51.556 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-10 02:38:29.988 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-10 02:38:37.206 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-10 02:38:38.609 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-10 02:46:17.766 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-10 02:46:24.670 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-10 02:46:26.024 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-10 02:50:28.662 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-10 02:50:33.899 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-10 02:50:35.079 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-10 02:51:23.980 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-10 02:51:30.509 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-10 02:51:31.967 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-10 02:52:07.421 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-10 02:52:11.997 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-10 02:52:13.094 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-10 02:52:49.530 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-10 02:52:54.087 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-10 02:52:54.968 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-10 02:53:21.033 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-10 02:53:26.865 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-10 02:53:28.021 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-10 02:53:50.542 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-10 02:53:54.816 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-10 02:53:55.910 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-10 02:56:07.073 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-10 02:56:12.637 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-10 02:56:14.436 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-10 03:00:44.649 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-10 03:00:49.434 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-10 03:00:50.341 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-10 03:37:01.554 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-10 03:37:08.085 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-10 03:37:09.415 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-10 04:18:39.968 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-10 04:18:51.351 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-10 04:18:52.512 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-25 20:59:12.443 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-25 20:59:27.419 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-25 20:59:48.905 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-25 20:59:49.765 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-25 20:59:51.263 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-25 20:59:51.618 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-10-25 21:00:12.954 [main] INFO  testCases.RegTestclass - Test setup started
+2026-10-25 21:00:25.799 [main] INFO  testCases.RegTestclass - this test is started
+2026-10-25 21:00:27.193 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-11-04 22:24:08.379 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-04 22:24:17.236 [main] INFO  testCases.RegTestclass - this test is started
+2026-11-04 22:24:18.246 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-11-14 13:40:03.253 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-14 13:40:14.820 [main] INFO  testCases.RegTestclass - this test is started
+2026-11-14 13:40:16.177 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-11-15 00:58:22.723 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 00:58:42.696 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:01:01.218 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:01:06.485 [main] INFO  testCases.RegTestclass - Chrome browser launched through Selenium Grid
+2026-11-15 01:01:10.683 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:01:10.832 [main] INFO  testCases.RegTestclass - this test is started
+2026-11-15 01:01:12.004 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-11-15 01:01:16.431 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:02:18.079 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:02:20.150 [main] INFO  testCases.RegTestclass - Chrome browser launched through Selenium Grid
+2026-11-15 01:02:24.156 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:02:24.294 [main] INFO  testCases.RegTestclass - this test is started
+2026-11-15 01:02:26.021 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-11-15 01:02:29.819 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:05:03.307 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:05:05.038 [main] INFO  testCases.RegTestclass - Chrome browser launched through Selenium Grid
+2026-11-15 01:05:09.435 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:05:09.541 [main] INFO  testCases.RegTestclass - this test is started
+2026-11-15 01:05:10.712 [main] INFO  testCases.RegTestclass - clicked on the register link 
+2026-11-15 01:05:14.661 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:10:49.046 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:10:51.296 [main] INFO  testCases.RegTestclass - Chrome browser launched through Selenium Grid
+2026-11-15 01:10:55.942 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:10:56.347 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:12:11.367 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:12:12.931 [main] INFO  testCases.RegTestclass - Chrome launched through Selenium Grid
+2026-11-15 01:12:15.039 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:12:15.471 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:13:22.013 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:13:23.518 [main] INFO  testCases.RegTestclass - Chrome launched through Selenium Grid
+2026-11-15 01:13:25.385 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:13:25.446 [main] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:13:26.506 [main] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:13:30.269 [main] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 01:13:40.592 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:13:57.282 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:13:58.894 [main] INFO  testCases.RegTestclass - Chrome launched through Selenium Grid
+2026-11-15 01:14:00.807 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:14:00.903 [main] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:14:02.018 [main] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:14:05.614 [main] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 01:14:15.981 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:17:17.205 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:17:19.404 [main] INFO  testCases.RegTestclass - Chrome launched through Selenium Grid
+2026-11-15 01:17:21.471 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:17:21.570 [main] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:17:22.758 [main] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:17:26.638 [main] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 01:17:37.347 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:17:53.020 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:17:55.176 [main] INFO  testCases.RegTestclass - Chrome launched through Selenium Grid
+2026-11-15 01:17:57.893 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:17:57.983 [main] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:17:59.321 [main] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:18:03.046 [main] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 01:18:13.448 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:19:39.676 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:19:58.366 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:20:39.623 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:20:41.884 [main] INFO  testCases.RegTestclass - Chrome launched through Selenium Grid
+2026-11-15 01:20:43.830 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:20:43.889 [main] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:20:44.858 [main] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:20:48.578 [main] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 01:20:58.987 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:25:25.934 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:25:28.724 [main] INFO  testCases.RegTestclass - Chrome launched locally
+2026-11-15 01:25:33.995 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:25:34.112 [main] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:25:35.193 [main] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:25:39.185 [main] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 01:25:49.537 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:26:10.624 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:26:13.049 [main] INFO  testCases.RegTestclass - Chrome launched through Selenium Grid
+2026-11-15 01:26:15.727 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:26:15.797 [main] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:26:16.707 [main] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:26:20.773 [main] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 01:26:31.183 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:34:12.352 [TestNG-tests-1] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:34:16.780 [TestNG-tests-1] INFO  testCases.RegTestclass - Chrome launched through Selenium Grid
+2026-11-15 01:34:16.780 [TestNG-tests-2] INFO  testCases.RegTestclass - Chrome launched through Selenium Grid
+2026-11-15 01:34:20.173 [TestNG-tests-2] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:34:20.181 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:34:20.222 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:34:20.223 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:34:21.095 [TestNG-tests-2] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:34:22.357 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:35:04.123 [TestNG-tests-1] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:35:06.994 [TestNG-tests-2] INFO  testCases.RegTestclass - Chrome launched through Selenium Grid
+2026-11-15 01:35:07.147 [TestNG-tests-1] INFO  testCases.RegTestclass - Chrome launched through Selenium Grid
+2026-11-15 01:35:10.087 [TestNG-tests-2] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:35:10.165 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:35:10.970 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:35:10.976 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:35:11.772 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:35:12.314 [TestNG-tests-2] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:38:23.550 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:38:26.234 [main] INFO  testCases.RegTestclass - chrome launched through Selenium Grid
+2026-11-15 01:38:28.809 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:38:28.842 [main] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:38:29.792 [main] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:38:33.772 [main] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 01:38:44.277 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:40:37.733 [TestNG-tests-2] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:40:39.859 [TestNG-tests-1] INFO  testCases.RegTestclass - chrome launched through Selenium Grid
+2026-11-15 01:40:42.688 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:40:42.789 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:40:43.339 [TestNG-tests-2] INFO  testCases.RegTestclass - edge launched through Selenium Grid
+2026-11-15 01:40:45.254 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:40:46.937 [TestNG-tests-2] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:40:46.955 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:40:47.943 [TestNG-tests-2] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:40:50.447 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 01:40:52.007 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 01:41:01.177 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:41:02.704 [TestNG-tests-2] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:42:14.907 [TestNG-tests-2] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 01:42:17.261 [TestNG-tests-1] INFO  testCases.RegTestclass - chrome launched through Selenium Grid
+2026-11-15 01:42:19.365 [TestNG-tests-2] INFO  testCases.RegTestclass - edge launched through Selenium Grid
+2026-11-15 01:42:21.329 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:42:21.416 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:42:22.277 [TestNG-tests-2] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 01:42:22.287 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 01:42:23.107 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:42:23.469 [TestNG-tests-2] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 01:42:25.061 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 01:42:28.549 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 01:42:35.592 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 01:42:38.899 [TestNG-tests-2] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:01:18.827 [TestNG-tests-1] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 03:01:19.131 [TestNG-tests-1] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 03:01:22.585 [TestNG-tests-2] INFO  testCases.RegTestclass - edge launched through Selenium Grid
+2026-11-15 03:01:23.388 [TestNG-tests-2] INFO  testCases.RegTestclass - edge launched through Selenium Grid
+2026-11-15 03:01:26.430 [TestNG-tests-1] INFO  testCases.RegTestclass - chrome launched through Selenium Grid
+2026-11-15 03:01:27.439 [TestNG-tests-1] INFO  testCases.RegTestclass - chrome launched through Selenium Grid
+2026-11-15 03:01:31.288 [TestNG-tests-2] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:01:31.364 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:01:32.268 [TestNG-tests-2] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:01:32.387 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:01:32.398 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:01:32.400 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:01:34.851 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:01:35.964 [TestNG-tests-2] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:01:36.131 [TestNG-tests-2] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:01:38.996 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:01:39.006 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:01:39.701 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:01:40.625 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:01:40.689 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:01:42.932 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:01:44.413 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:01:49.871 [TestNG-tests-2] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:01:50.750 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:01:53.255 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:01:54.846 [TestNG-tests-2] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:02:13.023 [TestNG-tests-1] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 03:02:15.337 [TestNG-tests-1] INFO  testCases.RegTestclass - chrome launched through Selenium Grid
+2026-11-15 03:02:18.377 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:02:18.455 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:02:20.074 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:02:24.098 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:02:34.309 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:02:35.649 [TestNG-tests-1] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 03:02:38.251 [TestNG-tests-1] INFO  testCases.RegTestclass - edge launched through Selenium Grid
+2026-11-15 03:02:41.096 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:02:41.097 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:02:42.035 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:02:45.119 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:02:54.404 [TestNG-tests-2] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 03:02:56.227 [TestNG-tests-2] INFO  testCases.RegTestclass - edge launched through Selenium Grid
+2026-11-15 03:02:59.487 [TestNG-tests-2] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:02:59.517 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:03:00.763 [TestNG-tests-2] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:03:01.182 [TestNG-tests-1] INFO  testCases.RegTestclass - chrome launched through Selenium Grid
+2026-11-15 03:03:05.636 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:03:05.654 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:03:06.765 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:03:06.924 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:03:10.813 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:03:16.959 [TestNG-tests-2] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:03:21.181 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:04:21.536 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 03:04:24.353 [main] INFO  testCases.RegTestclass - chrome launched through Selenium Grid
+2026-11-15 03:04:27.179 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:04:27.245 [main] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:04:28.097 [main] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:04:31.690 [main] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:04:42.279 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:37:35.974 [TestNG-tests-2] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 03:37:40.405 [TestNG-tests-1] INFO  testCases.RegTestclass - chrome launched locally
+2026-11-15 03:37:40.843 [TestNG-tests-2] INFO  testCases.RegTestclass - edge launched locally
+2026-11-15 03:37:44.680 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:37:44.743 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:37:46.206 [TestNG-tests-2] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:37:46.241 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:37:46.263 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:37:47.857 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:37:48.025 [TestNG-tests-2] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:37:51.967 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:37:58.370 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:38:02.305 [TestNG-tests-2] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:39:42.305 [main] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 03:39:43.957 [main] INFO  testCases.RegTestclass - chrome launched locally
+2026-11-15 03:39:46.412 [main] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:39:46.486 [main] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:39:47.470 [main] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:39:50.987 [main] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:40:01.369 [main] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:43:11.229 [TestNG-tests-1] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 03:43:13.409 [TestNG-tests-1] INFO  testCases.RegTestclass - chrome launched locally
+2026-11-15 03:43:14.657 [TestNG-tests-2] INFO  testCases.RegTestclass - edge launched locally
+2026-11-15 03:43:17.973 [TestNG-tests-2] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:43:18.009 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:43:18.334 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:43:18.350 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:43:20.240 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:43:20.299 [TestNG-tests-2] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:43:21.999 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:43:22.931 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:43:33.829 [TestNG-tests-2] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:43:33.845 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:56:18.123 [TestNG-tests-1] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 03:56:23.192 [TestNG-tests-2] INFO  testCases.RegTestclass - edge launched locally
+2026-11-15 03:56:23.201 [TestNG-tests-1] INFO  testCases.RegTestclass - chrome launched locally
+2026-11-15 03:56:30.009 [TestNG-tests-2] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:56:30.047 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:56:30.778 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 03:56:30.807 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 03:56:31.825 [TestNG-tests-2] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:56:33.450 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 03:56:35.129 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:56:37.228 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 03:56:45.780 [TestNG-tests-2] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 03:56:48.156 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 04:04:14.091 [TestNG-tests-2] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 04:04:17.763 [TestNG-tests-1] INFO  testCases.RegTestclass - chrome launched locally
+2026-11-15 04:04:18.032 [TestNG-tests-2] INFO  testCases.RegTestclass - edge launched locally
+2026-11-15 04:04:22.327 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 04:04:22.376 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 04:04:22.899 [TestNG-tests-2] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 04:04:22.903 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 04:04:24.419 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 04:04:24.567 [TestNG-tests-2] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 04:04:26.232 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 04:04:27.478 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 04:04:36.981 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 04:04:37.606 [TestNG-tests-2] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 10:36:37.889 [TestNG-tests-1] INFO  testCases.RegTestclass - Test setup started
+2026-11-15 10:36:42.483 [TestNG-tests-2] INFO  testCases.RegTestclass - edge launched locally
+2026-11-15 10:36:44.768 [TestNG-tests-1] INFO  testCases.RegTestclass - chrome launched locally
+2026-11-15 10:36:47.496 [TestNG-tests-2] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 10:36:47.535 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 10:36:49.502 [TestNG-tests-2] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 10:36:50.383 [TestNG-tests-1] INFO  testCases.RegTestclass - Application launched successfully
+2026-11-15 10:36:50.392 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test started
+2026-11-15 10:36:53.308 [TestNG-tests-1] INFO  testCases.RegTestclass - Clicked on registration link
+2026-11-15 10:36:55.380 [TestNG-tests-2] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 10:36:58.087 [TestNG-tests-1] INFO  testCases.RegTestclass - Registration test completed
+2026-11-15 10:37:07.468 [TestNG-tests-2] INFO  testCases.RegTestclass - Browser closed successfully
+2026-11-15 10:37:09.340 [TestNG-tests-1] INFO  testCases.RegTestclass - Browser closed successfully

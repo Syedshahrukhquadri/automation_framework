@@ -1,0 +1,17 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="CrossBrowserSuite">
+
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+
+   <test name="ChromeExecution">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+        <class name="testCases.RegTestclass"/>
+    </classes>
+</test>
+
+</suite>
