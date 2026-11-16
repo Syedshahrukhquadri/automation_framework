@@ -16,4 +16,16 @@
       </class> <!-- testCases.RegTestclass -->
     </classes>
   </test> <!-- EdgeExecution(failed) -->
+  <test thread-count="2" parallel="tests" name="ChromeExecution(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.RegTestclass">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="verifyAccount"/>
+        </methods>
+      </class> <!-- testCases.RegTestclass -->
+    </classes>
+  </test> <!-- ChromeExecution(failed) -->
 </suite> <!-- Failed suite [CrossBrowserSuite] -->
